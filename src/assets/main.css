@@ -2,9 +2,13 @@
 
 :root {
   --main-black: #1a1a1a;
-  --main-yellow: #ffb928;
+  --yellow: #ffb928;
   --header-height: 90px;
   --footer-height: 60px;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
@@ -16,5 +20,18 @@ body {
 .container {
   max-width: 1024px;
   margin: 0 auto;
+  height: 100%;
   /* border: 1px solid red; */
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  text-decoration: underline var(--yellow);
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 26px;
+  font-weight: bold;
 }

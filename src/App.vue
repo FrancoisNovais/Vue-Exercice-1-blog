@@ -5,15 +5,11 @@ import Footer from './components/Footer.vue'
 </script>
 
 <template>
-  <div>
-    <Header />
-  </div>
-  <div>
-    <Content />
-  </div>
-  <div>
-    <Footer />
-  </div>
+  <Header />
+
+  <Content />
+
+  <Footer />
 </template>
 
 <style scoped></style>
