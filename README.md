@@ -4,7 +4,7 @@ Bienvenue dans mon premier exercice avec Vue.js ! Ce projet est une application 
 
 ## Description
 
-Ce projet est conçu pour vous familiariser avec les bases de Vue.js en construisant une structure de site web simple. L'application se compose de trois composants principaux :
+Ce projet est conçu pour ce familiariser avec les bases de Vue.js en construisant une structure de site web simple. L'application se compose de trois composants principaux :
 
 - **Header** : Contient le titre du blog ou la navigation principale.
 - **Content** : Affiche le contenu principal du blog.
