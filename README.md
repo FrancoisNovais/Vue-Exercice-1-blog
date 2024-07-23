@@ -1,35 +1,11 @@
-# exercice-1-my-blog
+# Mon Premier Exercice Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+Bienvenue dans mon premier exercice avec Vue.js ! Ce projet est une application simple de type blog, comprenant trois composants principaux : un Header, un Content et un Footer.
 
-## Recommended IDE Setup
+## Description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Ce projet est conçu pour vous familiariser avec les bases de Vue.js en construisant une structure de site web simple. L'application se compose de trois composants principaux :
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- **Header** : Contient le titre du blog ou la navigation principale.
+- **Content** : Affiche le contenu principal du blog.
+- **Footer** : Affiche le pied de page avec des informations supplémentaires ou des liens.
