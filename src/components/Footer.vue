@@ -10,7 +10,11 @@
 footer {
   display: flex;
   align-items: center;
-  margin: 10px 0;
+  padding: 20px 0;
+  border-top: 3px solid var(--main-yellow);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 a {
   text-decoration: none;
