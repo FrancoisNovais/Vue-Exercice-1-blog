@@ -13,6 +13,9 @@
 </template>
 
 <style scoped>
+header {
+  border-bottom: 3px solid var(--main-yellow);
+}
 .header {
   display: flex;
   justify-content: space-between;
